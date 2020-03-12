@@ -16,8 +16,11 @@ TLauncher: метод. (Получение DEV версий)
 
 Установка сборки:
 - 1.Скачиваете архив -> 
+
 -Google:
+
 -Yandex:
+
 -Github_Repozitory: https://github.com/Sepera-okeq/DIS-Sborka-Repozitory (Выбираем Stable-version папку и там берем самый свежий архив Текущая версия 2.2.0)
 - 2.Открываете TLauncher: и переходите в TL_MODS:
 - 3.Нажимаем на инструменты -> Бэкап Модов -> Восстановить из бэкапа и выбираем наш архив
